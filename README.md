@@ -1,5 +1,2 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+This is a project made by Vaibhav Tailor and Arin Jain for school project.
+In this project, a user has to answer few basic questions based on which the gemini api key gives your stress percentage and suggests possible doctors user must consult.
